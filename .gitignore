@@ -1,4 +1,11 @@
 # Byte-compiled / optimized / DLL files
+
+# Text backup files
+*.bak
+
+# Database
+*.sqlite3
+
 __pycache__/
 *.py[cod]
 *$py.class
